@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>log</title>
+    <link>https://evanhutomo.github.io/log/</link>
+    <description>Recent content on log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://evanhutomo.github.io/log/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kenapa Harus Nyatet Sembarangkalir</title>
+      <link>https://evanhutomo.github.io/log/post/kenapa-harus-nyatet-sembarangkalir/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://evanhutomo.github.io/log/post/kenapa-harus-nyatet-sembarangkalir/</guid>
+      <description>Di umur kepala 2 atau orang biasanya bilang twenty something, hidup sudah terasa mulai nda asik. Saya ingat waktu SMA kelas 3, saya ingin banget sesegera mungkin kuliah. Namun disaat kuliah, bayang-bayang lulus mau jadi apa sudah membayangi sejak semester 4. Quarterlife crisis, begitu kata orang-orang.
+Lulus kuliah S2 di Jepang tidak membuatku ingin show off, malah bayangan komentar-komentar nyinyir yang aku sebisa mungkin hindari. Begitu susah untuk hidup di umur optimal ini.</description>
+    </item>
+    
+    <item>
+      <title>How to (Marshal &#39;D) Teach</title>
+      <link>https://evanhutomo.github.io/log/post/how-to-marshal-d-teach/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://evanhutomo.github.io/log/post/how-to-marshal-d-teach/</guid>
+      <description>Teaching is a common thing and we know how to do it, but actually teaching is kinda hard for me. When I came to the situation which my mom asked me to be teached on a technical things, I didn&amp;rsquo;t realize that I&amp;rsquo;m not good enough, not patient enough to give a technical guidance to my mom. But after some reading research and summary, I keep it a note like this.</description>
+    </item>
+    
+    <item>
+      <title>Lil Achievement 1</title>
+      <link>https://evanhutomo.github.io/log/post/lil-achievement-1/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://evanhutomo.github.io/log/post/lil-achievement-1/</guid>
+      <description> memorizing 漢検検定試験10級～準2級 learned adobe illustrator, joined contest many times, win 2 times learn cooking with wife and can make good food publish static web 3 times edit prompt with bash-it learning yocto-project structure learning make learning kernel 2012-2013 ever developed iOS project understand (but need to be improved) recent android development  </description>
+    </item>
+    
+    <item>
+      <title>When Burnout Comes</title>
+      <link>https://evanhutomo.github.io/log/post/when-burnout-comes/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://evanhutomo.github.io/log/post/when-burnout-comes/</guid>
+      <description> Realize you are worthwhile (have a IT skill, hardworker, grit, persistence) When you tired, just back of but keep in mind you still worthwhile Sharpening your documentation habit Keep calm and persist Realize everyone not perfect, so am I Realize = keep in mind always (意識) Do something very simple to keep you achieving something, back to the track that made me feel worthwhile  </description>
+    </item>
+    
+    <item>
+      <title>Init</title>
+      <link>https://evanhutomo.github.io/log/post/init/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://evanhutomo.github.io/log/post/init/</guid>
+      <description>自分自身の達成感が少なくても貯まってしまうと！
+ エヴァン  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://evanhutomo.github.io/log/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://evanhutomo.github.io/log/about/</guid>
+      <description>Hi! I am Evan Hutomo, a humble Indonesian software engineer who lives in Japan.
+My work nowadays are around embedded systems (just get started) and learn how to learn (whenever I’d got bored my mind always wandering to be feed with things).
+Love to discuss about:
+ cooking pixel art logo design psychology kanji  I&amp;rsquo;d love to discuss with anything, so please contact me.
+Thank you 😉
+こんにちは はじめまして、日本に働くインドネシアソフトウエアエンジニアのエヴァン・フトモと申します。 現在の働いていることはHWやファムウエア(まだまだ早くて)や学び方の学ぶ(もしかしていつでもつまらないの時の僕が思考よく浮かんでいる)というような最近よくやっていると思います。</description>
+    </item>
+    
+  </channel>
+</rss>

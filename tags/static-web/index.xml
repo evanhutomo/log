@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>static-web on log</title>
+    <link>https://evanhutomo.github.io/log/tags/static-web/</link>
+    <description>Recent content in static-web on log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://evanhutomo.github.io/log/tags/static-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Init</title>
+      <link>https://evanhutomo.github.io/log/post/init/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://evanhutomo.github.io/log/post/init/</guid>
+      <description>自分自身の達成感が少なくても貯まってしまうと！
+ エヴァン  </description>
+    </item>
+    
+  </channel>
+</rss>
